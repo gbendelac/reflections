@@ -16,4 +16,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
    you can take a break or be off line for a while and then once you restart working you can fetch the latest changes from the remote repository
    and see all the differences while you were away.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?   
+   without Git or GitHub collaboration would have to be done orally or by emails and code reviews. It is easier to collaborate with GitHub.
+   
    
